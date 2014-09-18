@@ -1,0 +1,6 @@
+WP Editor Buttons Add-on LOG
+====================================
+0.1.1 - 12 April 2014
+------------------------------------
+- support for tinymce 4 (WP 3.9)
+- add changelog.txt
